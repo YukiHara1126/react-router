@@ -15,9 +15,6 @@ export function App() {
         <br />
         <Link to="/page2">Page2</Link>
         <br />
-        {/* <Home />
-
-        <Page2 /> */}
       </div>
 
       <Switch>
